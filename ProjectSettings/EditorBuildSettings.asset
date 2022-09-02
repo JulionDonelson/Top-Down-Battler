@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 2ac36c68c950d634e80937859a79a673
+  - enabled: 1
+    path: Assets/Scenes/First Map.unity
+    guid: 60cc85e96ace564499d1c9d2eede92ff
+  - enabled: 1
+    path: Assets/Scenes/Second Map.unity
+    guid: 1be690d2b6afa1543ad3c766a6b32709
+  - enabled: 1
+    path: Assets/Scenes/Third Map.unity
+    guid: 31128f8fb58639d48be8d5d56fce30f8
+  m_configObjects: {}
